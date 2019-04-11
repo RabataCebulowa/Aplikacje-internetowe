@@ -11,8 +11,8 @@ width: 50%;
 height: 80%;
 margin: 20px auto 0;
 font: normal 28pt sans-serif;
-color: white;
-background-color: black;
+color: cornflowerblue;
+background-color: gray;
 grid-gap: 3px;
 padding: 3px;
 }
@@ -20,9 +20,9 @@ padding: 3px;
     display:flex;
     justify-content: center;
     align-items: center;
-    background-color:#555555;
+    background-color: lightcyan;
 }
 #container > div:hover{
-    background-color: peachpuff;
+    background-color: lightgoldenrodyellow;
     color: black;
 }
